@@ -1,5 +1,1 @@
-
-
-
-
-
+def square_array
