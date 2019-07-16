@@ -1,14 +1,15 @@
 def square_array(array)
-  num  = []
+  squared  = []
   counter = 0 
   
-  while array[counter] do
-     array[counter] << num[counter]
+  while counter < array.size do
+     squared << (array[count] ** 2)
     counter += 1
   end
+  squared
 end
 
-square_array("Family")
+
 
 
 
