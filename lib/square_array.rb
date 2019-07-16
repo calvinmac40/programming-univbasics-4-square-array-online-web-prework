@@ -1,1 +1,4 @@
-def square_array
+def square_array(array)
+  counter = 0 
+  
+  whil
